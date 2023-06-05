@@ -1,0 +1,140 @@
+[
+    {
+        "nombre": "Hermoso Nombre",
+        "autor": "Hillsong",
+        "youtube_link": "https://www.youtube.com/watch?v=ZoKsBeoEW18",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Fidelidad",
+        "autor": "Christine D'Clario",
+        "youtube_link": "https://www.youtube.com/watch?v=W9njhFG6CIA",
+        "tonalidad": "C / Am"
+    },
+    {
+        "nombre": "Cristo yo te amo",
+        "autor": "New Wine",
+        "youtube_link": "https://www.youtube.com/watch?v=-sRI3fDAgfo",
+        "tonalidad": "G / Em"
+    },
+    {
+        "nombre": "Yo Navegaré",
+        "autor": "Dahaira",
+        "youtube_link": "https://www.youtube.com/watch?v=OEUHPyVqACM",
+        "tonalidad": "A / F#m"
+    },
+    {
+        "nombre": "Aceite Fresco",
+        "autor": "New Wine",
+        "youtube_link": "https://www.youtube.com/watch?v=p_bY_SPtQQg",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Océanos",
+        "autor": "Hillsong",
+        "youtube_link": "https://www.youtube.com/watch?v=rbHIRvfNxBA",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Estamos de fiesta con Jesús",
+        "autor": "Coro",
+        "youtube_link": "https://www.youtube.com/watch?v=M8K1vy4yRY0",
+        "tonalidad": "B / G#m"
+    },
+    {
+        "nombre": "INCOMPRENSIBLE AMOR",
+        "autor": "New Wine",
+        "youtube_link": "https://www.youtube.com/watch?v=70_2DcsIncY",
+        "tonalidad": "G#m / B"
+    },
+    {
+        "nombre": "Anhelo tu presencia",
+        "autor": "Coalo Zamorano",
+        "youtube_link": "https://www.youtube.com/watch?v=C2DmXLaZha8",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Yahweh se manifestará",
+        "autor": "Oasis Ministry",
+        "youtube_link": "https://www.youtube.com/watch?v=Qem0WSJXLCE",
+        "tonalidad": "Em / G"
+    },
+    {
+        "nombre": "Yahweh",
+        "autor": "Christine D'Clario",
+        "youtube_link": "https://www.youtube.com/watch?v=dhzv1NDjIog",
+        "tonalidad": "C / Am"
+    },
+    {
+        "nombre": "Pablo y Silas",
+        "autor": "Oasis Ministry",
+        "youtube_link": "https://www.youtube.com/watch?v=ml2qryeyrb0",
+        "tonalidad": "Bb / Gm"
+    },
+    {
+        "nombre": "No hay lugar más alto",
+        "autor": "Miel San Marcos ft. Christine D' Clario",
+        "youtube_link": "https://www.youtube.com/watch?v=wb99ILqk2dc",
+        "tonalidad": "A / F#m"
+    },
+    {
+        "nombre": "Si tu presencia conmigo no va",
+        "autor": "Oasis Ministry",
+        "youtube_link": "https://www.youtube.com/watch?v=kixibYdS9hY",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Cordero y León",
+        "autor": "New Wine",
+        "youtube_link": "https://www.youtube.com/watch?v=RapnUsXbUYo",
+        "tonalidad": "Dm / F"
+    },
+    {
+        "nombre": "Nadie puede detenerle",
+        "autor": "Grace Rodríguez",
+        "youtube_link": "https://www.youtube.com/watch?v=PTh_OAuIBKk&pp=ygUVbmFkaWUgcHVlZGUgZGV0ZW5lcmxl",
+        "tonalidad": "Em / G"
+    },
+    {
+        "nombre": "La bondad de Dios",
+        "autor": "Church of the City",
+        "youtube_link": "https://www.youtube.com/watch?v=SnIzImY9wO4",
+        "tonalidad": "G / Em"
+    },
+    {
+        "nombre": "Santo Jesús",
+        "autor": "Melissa Quiles",
+        "youtube_link": "https://www.youtube.com/watch?v=NYI4AoFTEb0",
+        "tonalidad": "B / G#m"
+    },
+    {
+        "nombre": "Dios está aquí",
+        "autor": "Javier Garcías",
+        "youtube_link": "https://www.youtube.com/watch?v=-1lEvbddHD8",
+        "tonalidad": "G / Em"
+    },
+    {
+        "nombre": "Viva la fe, viva la esperanza, viva el amor",
+        "autor": "...",
+        "youtube_link": "https://www.youtube.com/watch?v=msYG2jbA5G0",
+        "tonalidad": "C# / Bbm"
+    },
+    {
+        "nombre": "Gracias",
+        "autor": "Marcos Witt",
+        "youtube_link": "https://www.youtube.com/watch?v=uENYvCCeYXk",
+        "tonalidad": "Bb / Gm"
+    },
+    {
+        "nombre": "Poderoso Dios",
+        "autor": "Marco Barrientos",
+        "youtube_link": "https://www.youtube.com/watch?v=6HJ_uMH3NKg",
+        "tonalidad": "C / Am"
+    },
+    {
+        "nombre": "Sangre que me da la paz",
+        "autor": "César Darío",
+        "youtube_link": "https://www.youtube.com/watch?v=eLMuTO24IG8",
+        "tonalidad": "C / Am"
+    }
+]
