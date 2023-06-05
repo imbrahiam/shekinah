@@ -5,6 +5,7 @@ let counter = document.getElementById('counter');
 
 // Función para generar las cards de canciones
 function generarCards(canciones) {
+  count = 0;
   const cardContainer = document.getElementById('card-container');
 
   // Vaciar contenido existente

@@ -1,6 +1,8 @@
 /* Estilos generales */
 body {
   font-family: "SF Pro Text", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  user-select: none;
+  -webkit-user-drag: none;
 }
 
 .container {
