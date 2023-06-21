@@ -12,6 +12,24 @@
         "tonalidad": "C / Am"
     },
     {
+        "nombre": "Los brazos de papá",
+        "autor": "Grupo Grace",
+        "youtube_link": "https://www.youtube.com/watch?v=BGDOdMpTV2o",
+        "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Un Encuentro Contigo",
+        "autor": "Oasis Ministry",
+        "youtube_link": "https://www.youtube.com/watch?v=FWbT3w7agHc",
+        "tonalidad": "G / Em"
+    },
+    {
+        "nombre": "Tus cuerdas de amor",
+        "autor": "Julio Melgar",
+        "youtube_link": "https://www.youtube.com/watch?v=yDdyDDAWRcM",
+        "tonalidad": "F / Dm"
+    },
+    {
         "nombre": "Cristo yo te amo",
         "autor": "New Wine",
         "youtube_link": "https://www.youtube.com/watch?v=-sRI3fDAgfo",
@@ -28,6 +46,12 @@
         "autor": "New Wine",
         "youtube_link": "https://www.youtube.com/watch?v=p_bY_SPtQQg",
         "tonalidad": "D / Bm"
+    },
+    {
+        "nombre": "Vuelvo a casa",
+        "autor": "Generación 12",
+        "youtube_link": "https://www.youtube.com/watch?v=y3tyQqjS4qY",
+        "tonalidad": "B / G#m"
     },
     {
         "nombre": "Océanos",
@@ -112,6 +136,12 @@
         "autor": "Javier Garcías",
         "youtube_link": "https://www.youtube.com/watch?v=-1lEvbddHD8",
         "tonalidad": "G / Em"
+    },
+    {
+        "nombre": "Ven es hora de adorarle",
+        "autor": "Marco Barrientos",
+        "youtube_link": "https://www.youtube.com/watch?v=OZIqdhelEB0",
+        "tonalidad": "E / C#m"
     },
     {
         "nombre": "Viva la fe, viva la esperanza, viva el amor",
